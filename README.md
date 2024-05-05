@@ -20,6 +20,8 @@ This repository contains the code for a RAG (Retrieval Augmented Generation) bas
 # Model Used for the Chatbot
 
 The chatbot implements various functionalities including text extraction, chunk segmentation, vector embeddings generation, conversational question-answering chain setup, and UI building.
+![Our application image](relative/path/to/image.png)
+![Our application image](relative/path/to/image.png)
 
 # Deploying Chatbot on AWS EC2 Instance
 
