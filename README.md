@@ -20,21 +20,31 @@ This repository contains the code for a RAG (Retrieval Augmented Generation) bas
 # Model Used for the Chatbot
 
 The chatbot implements various functionalities including text extraction, chunk segmentation, vector embeddings generation, conversational question-answering chain setup, and UI building.
-![Our application image](relative/path/to/image.png)
-![Our application image](relative/path/to/image.png)
+
+![Our application image](Application_img/chatbot.jpg)
+![Our application image](Application_img/chatbot_with_a_pdf.jpg)
 
 # Deploying Chatbot on AWS EC2 Instance
 
 The deployment process involves setting up an EC2 instance with specified technical specifications including names and tags, AMI selection, instance type, key pair login files, and network settings. Deploying on EC2 offers advantages such as scalability, customization, and reliability.
 
-![AWS EC2 Architecture](relative/path/to/image.png)
+![AWS EC2 Architecture](Application_img/aws_ec2_architecture.jpg)
 
 
 # Results
 The chatbot has been successfully built and deployed on AWS EC2, providing users with an intuitive platform for interacting with PDF documents. The deployment process was smooth, and the chatbot is accessible via the provided external URL.
 
-Conclusion
+# Conclusion
 The project aims to empower users to extract insights from PDF documents through natural language interaction. The integration of advanced NLP libraries and deployment on AWS EC2 ensures a robust and scalable platform for users.
 
-Acknowledgement
+# Acknowledgement
 Special thanks to Dr. Animesh Chaturvedi for providing the opportunity to work on this project and for guidance on utilizing Google Generative AI and AWS services.
+
+# Our Team
+Devapangu Abhishek (**21bds016**)
+
+Hosur Sai Kartik (**21bds021**)
+
+Nischay Kondai (**21bds045**)
+
+Pratik Raj (**21bds047**)
