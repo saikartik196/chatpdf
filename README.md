@@ -25,6 +25,9 @@ The chatbot implements various functionalities including text extraction, chunk 
 
 The deployment process involves setting up an EC2 instance with specified technical specifications including names and tags, AMI selection, instance type, key pair login files, and network settings. Deploying on EC2 offers advantages such as scalability, customization, and reliability.
 
+![AWS EC2 Architecture](relative/path/to/image.png)
+
+
 # Results
 The chatbot has been successfully built and deployed on AWS EC2, providing users with an intuitive platform for interacting with PDF documents. The deployment process was smooth, and the chatbot is accessible via the provided external URL.
 
